@@ -1,0 +1,6 @@
+{
+  "name": "Kacper example app",
+  "description": "Deploying flask to heroku",
+  "repository": "https://github.com/kwikiel/rabarbar",
+  "keywords": ["python", "flask"]
+}
